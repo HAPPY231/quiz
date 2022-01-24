@@ -1,5 +1,7 @@
 <?php
-
+/**
+    Aby przenieść migracje na twój localhost musisz wpisać w terminalu php artisan migrate
+     */
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;

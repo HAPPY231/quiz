@@ -1,4 +1,4 @@
-  <h1>1.W pliku .env musisz wpisać swój DB_HOST i DB_PORT</br> 2.Stworzyć Baze danych o nazwie - logowanie </br> 3.W terminalu wpisać php artisan migrate</br> 4.Znowu w terminalu wpisać php artisan serve</br> 5.Wejść w pokazany URL</h1>
+  <h1>1.Import logowanie(1).sql to your database in localhost/phpmyadmin</h1>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
